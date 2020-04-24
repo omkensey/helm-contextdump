@@ -1,11 +1,18 @@
 apiVersion: v1
 entries:
   contextdump:
+  - apiVersion: v1
+    created: "2020-04-24T06:26:48.643354855-04:00"
+    digest: 9e1e3cd3f1be2ae6e542f985ea487f6e1ec9777ee462bb1f362f05a769801a39
+    name: contextdump
+    urls:
+    - contextdump-0.1.1.tgz
+    version: 0.1.1
   - apiVersion: v2
-    created: "2020-04-20T01:00:42.924639831-04:00"
+    created: "2020-04-24T06:26:48.643218494-04:00"
     digest: a8406b1b4af21a94e81805bb2a11d61898581b49e4454359ccd4b126623c018d
     name: contextdump
     urls:
-    - https://omkensey.github.io/helm-contextdump/contextdump-0.1.0.tgz
+    - contextdump-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-20T01:00:42.924378416-04:00"
+generated: "2020-04-24T06:26:48.642679668-04:00"
